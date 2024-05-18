@@ -43,12 +43,18 @@
             "produto" : "Jogo de mesa brahma chopp de plástico",
             "quantidade" : 100,
             "valor" : 350,
+            "pdv" : [
+                "Vizinhança", "Bar" 
+            ],
             "foto" : "https://ibb.co/album/7gDP4n"
         },
         {
             "id" : 6006989,
             "produto" : "Freezer horizontal grande ambev",
             "quantidade" : 6,
+            "pdv" : [
+                "Vizinhaça", "Bar", "Eventos" 
+            ],
             "valor" : 1500,
             "foto" : "https://ibb.co/album/7gDP4n"
         },
@@ -57,6 +63,19 @@
             "produto" : "Cervejela brahma duplo malte 600ml",
             "quantidade" : 45000,
             "valor" : 7.50,
+            "pdv" : [
+                "Vizinhança", "VIP", "Bar" 
+            ],
+            "foto" : "https://ibb.co/album/7gDP4n"
+        },
+        {
+            "id" : 97962644,
+            "produto" : "Jogo de mesa de madeira Spaten",
+            "quantidade" : 450,
+            "valor" : 450.70,
+            "pdv" : [
+                "VIP", "Mercado" 
+            ],
             "foto" : "https://ibb.co/album/7gDP4n"
         }
   ],
