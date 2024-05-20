@@ -54,7 +54,7 @@
         {
             "id" : 814560,
             "produto" : "Cervejela brahma duplo malte 600ml",
-            "quantidade" : "4500,
+            "quantidade" : 4500,
             "valor" : "7,50",
             "pdv" : [
                 "Vizinhança", "VIP", "Bar" 
@@ -64,8 +64,8 @@
         {
             "id" : 97962644,
             "produto" : "Jogo de mesa de madeira Spaten",
-            "quantidade" : "450,00",
-            "valor" : 450.70,
+            "quantidade" : 432,
+            "valor" : "450.70",
             "pdv" : [
                 "VIP", "Mercado" 
             ],
